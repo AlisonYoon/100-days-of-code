@@ -1,10 +1,12 @@
 # #100DaysOfCode Log - Round 1 - [Alison]
 
-The log of my #100DaysOfCode challenge. Started on [August 10, Friday, 2018].
+The log of my #100DaysOfCode challenge. Started on [September 26, Wednesday, 2018].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Making React App. 
+Source : https://codeburst.io/react-for-beginners-part-1-59a983dedeec
+Project view: https://codesandbox.io/s/j485jzjwlw
 
 ### R1D2
